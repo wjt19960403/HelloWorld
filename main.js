@@ -20,4 +20,4 @@ function f(x) {
         console.log(floor);
     }
 }
-f(5);
+f(5); //测试为5的时候

@@ -24,4 +24,4 @@ function f(x:number):void {
 
     }
 
-f(5);
+f(5);//测试为5的时候
